@@ -1,0 +1,17 @@
+.content {
+    align-items: initial;
+    display: ruby-base-container;
+    width: 100%;
+    margin: 40px 90px 90px 0px;
+}
+
+.content-todo {
+    float: left;
+    width: 65%;
+}
+
+.content-card {
+    float: right;
+    margin: 0px 30px 30px 30px;
+    width: 25%;
+}

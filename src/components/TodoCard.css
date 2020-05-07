@@ -1,0 +1,21 @@
+.geral {
+    display: inline;
+}
+
+.geral .done {
+    float: right;
+    margin: 4px 25px 0 0;
+    color: #1565c0;
+}
+
+.geral .todo {
+    float: right;
+    margin: 4px 25px 0 0;
+    color: #f44336;
+}
+
+.geral .all {
+    float: right;
+    margin: 4px 25px 0 0;
+    color: #66bb6a;
+}
