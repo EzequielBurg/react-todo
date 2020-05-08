@@ -13,7 +13,7 @@
     {
       "title": "to listen music",
       "id": 3,
-      "done": false
+      "done": true
     },
     {
       "title": "to play games",
@@ -22,7 +22,8 @@
     },
     {
       "title": "to eat",
-      "id": 5
+      "id": 5,
+      "done": true
     }
   ]
 }

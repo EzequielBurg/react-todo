@@ -6,7 +6,7 @@ import TodoCard from '../components/TodoCard'
 import { getTodos, setTodo, removeTodo, doneTodo } from '../resources/todo'
 import './App.css'
 
-function App() {
+export default function App() {
   const [todos, setTodos] = useState([])
 
   async function loadData() {
@@ -63,5 +63,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
